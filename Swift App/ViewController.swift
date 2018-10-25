@@ -3,7 +3,7 @@
 //  Swift App
 //
 //  Created by Ely Barros on 23/10/18.
-//  Copyright © 2018 Ely. All rights reserved..
+//  Copyright © 2018 Ely. All rights reserved.
 //
 
 import UIKit
